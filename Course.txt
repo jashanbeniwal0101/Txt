@@ -1,0 +1,189 @@
+
+✅ Basic Languages (Frontend)
+
+1. HTML – Structure of web pages
+
+
+2. CSS – Styling of web pages
+
+
+3. JavaScript – Adds interactivity (like click, animation)
+
+
+
+
+---
+
+🎨 Frontend Frameworks
+
+4. React.js – Most used for modern web apps
+
+
+5. Bootstrap – Ready-made UI components
+
+
+6. Tailwind CSS – Utility-first CSS for custom design
+
+
+
+
+---
+
+🔧 Backend Languages
+
+7. Node.js – JavaScript for server-side
+
+
+8. Python (Flask/Django) – Easy and powerful backend
+
+
+9. Java (Spring Boot) – Required for companies like HCL
+
+
+10. PHP (Laravel) – Another backend option
+
+
+11. Go or Ruby – For advanced devs (optional)
+
+
+
+
+---
+
+💾 Databases
+
+12. MySQL / PostgreSQL – SQL-based (used in companies)
+
+
+13. MongoDB – NoSQL, flexible schema
+
+
+14. Firebase – Cloud NoSQL with real-time sync (optional)
+
+
+
+
+---
+
+🌐 APIs (Link between Frontend & Backend)
+
+15. REST API – Commonly used
+
+
+16. GraphQL – New and flexible API style
+
+
+
+
+---
+
+🛠️ Dev Tools
+
+17. Git – Version control
+
+
+18. GitHub – Host your code/projects
+
+
+19. Postman – Test APIs
+
+
+20. VS Code – Best code editor
+
+
+
+
+---
+
+🚀 Deployment (Put your app live)
+
+21. Vercel / Netlify – Frontend hosting
+
+
+22. Railway / Render / Heroku – Full stack hosting
+
+
+23. Docker – Pack and deploy apps easily
+
+
+24. CI/CD – Automate build & deploy (Jenkins for HCL)
+
+
+
+
+---
+
+📱 Optional: Mobile Development
+
+25. React Native – For Android + iOS apps
+
+
+26. Flutter (Dart) – Google’s UI toolkit
+
+
+
+
+---
+
+🧠 Concepts You Must Know
+
+27. OOPs Concepts – Especially in Java/Python
+
+
+28. SDLC – Software Development Life Cycle
+
+
+29. Agile Methodology – Used in companies like HCL
+
+
+30. Authentication – JWT, OAuth, Login systems
+
+
+31. Data Structures & Algorithms – Important for interviews
+
+
+
+
+---
+
+💼 Extra (for jobs at HCL and MNCs)
+
+32. Java + Spring Boot – In demand at HCL
+
+
+33. Microservices – Small modular backend systems
+
+
+34. Jenkins, Docker, Kubernetes – DevOps tools
+
+
+35. Cloud (AWS/Azure) – Optional but valuable
+
+
+36. Unit Testing – JUnit, TestNG (for Java)
+
+
+
+
+---
+
+📁 Project Ideas (Must Build)
+
+37. Portfolio Website
+
+
+38. Blog App (React + Node)
+
+
+39. E-commerce App (with Login & Cart)
+
+
+40. Chat App (with WebSocket)
+
+
+41. API-based Weather or Movie App
+
+
+
+
+---
