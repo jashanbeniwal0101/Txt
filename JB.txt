@@ -273,3 +273,28 @@ on here down buttons like this)
                    (close)
 
 (and When click on close close the output)
+
+[When user sent command info show that output]
+
+User Details :
+
+
+🦚 First Name : (here add user first name)
+
+🐧 Last Name : (here add user last name)
+
+👤 User Id : (here add user telegram id)
+
+👦 Username : (here add username like @name of user.)
+
+🔗 User Link : (add user name and on user name also add on above user link to see bis profile.)
+
+
+🌟 Telegram Premium : (if user has telegram premium then true another ways flase.?
+
+📃 Language Code : (add user language)
+
+💫 Status : (check here status
+
+If you need user id, Then just tap and copy.
+
