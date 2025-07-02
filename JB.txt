@@ -1,0 +1,275 @@
+create a telegram bot with advance features like down see.
+when the user send the start commmand show that like
+(Hi {here add username and userid link because when user click on here see his profile}
+I am Video Converter Bot.
+
+Many Useful functions are available with Max Option.
+
+Files larger than 2GB will be split into parts.
+
+If any issues arise, report them at 👉 @Team_JB
+
+Legal Disclaimer: /disclaimer
+
+{on down add five buttons like this}
+(Bots list.)                      (Functions)
+(Commands.)                       (Disclaimer)
+                  (close) )
+
+when user click on Bots list show that output 
+Our Bot List
+
+➩ Quiz Bot
+
+➩ Audio Converter
+
+➩ Archiver Bot
+
+➩ File Renamer
+
+➩ ChatGPT Bot
+
+➩ Translator Bot
+
+➩ DC Tracker Bot
+
+➩ Image Resizer Bot
+
+➩ Image Background Remover
+
+➩ Magnet Link Downloader
+
+➩ Unzip Bot
+
+➩ URL Uploader
+
+➩ Video Trimmer
+
+➩ Video Merger
+
+➩ Video Compressor
+
+➩ Video Converter
+
+➩ YouTube Playlist Downloader
+
+➩ Multi Usage Bot
+
+✶ Note: Some of our bots are currently offline due to a server shortage. We anticipate their return in the future.
+
+(also add on bot link to go on bot)
+(also add down buttons like this)
+(Home).                           (Functions)
+                     (close)
+{and when click on home show output command start output fully)
+
+when click on Functions show that output 
+✶ You can customise /Settings (Rename File, Upload Mode)
+ 
+✶ If you send Video, Then this option will appear. 👇
+ 
+(1). Audio & Subtitles Remover
+
+(2). Audio & Subtitles Extractor
+
+(3). Caption & Buttons Editor
+
+(4). Video Trimmer
+
+(5). Video Merger
+
+(6). Mute Audio in Video File 
+
+(7). Video And Audio Merger 
+
+(8). Video And Subtitle Merger 
+
+(9). Video to GIF Converter
+
+(10). Video Splitter 
+
+(11). Screenshot generator
+
+(12). Manual Screenshot generator
+
+(13). Video sample generator
+
+(14). Video to (wav, mp3, ac3, aac, flac, wma, m4a, opus, ogg) Converter in Customisable Quality.
+
+(15). Video Optimizer
+
+(16). Video converter (Stream, mkv, mp4, avi, m4v)
+
+(17). Video Renamer
+
+(18). Media Information
+
+(19). Make Archive File (zip, rar, 7z) (Password Optional)
+
+
+✶ If you send Audio, Then this option will appear. 👇
+ 
+(1). Caption & Buttons Editor
+
+(2). Song Slowed & Reverb Maker
+
+(3). Audio Converter (wav, mp3, ac3, aac, flac, wma, m4a, opus, ogg etc) in Customisable Quality.
+
+(4). Make Archive File (zip, rar, 7z)
+
+(5). Audio Merger, Set Quality in /settings
+
+(6). Audio 8D Converter With many options.
+
+(7). Music Equalizer (Volume, Bass, Treble, Speed)
+
+(8). Audio Bass Booster with Range (-20 To 20)
+
+(9). Audio Treble Booster with Range (-20 To 20)
+
+(10). Audio Trimmer - from Start_time to End_time.
+
+(11). Auto Audio Trimmer with Start_time and Trim Duration
+
+(12). Rename Audio files or documents
+
+(13). Audio Tag Editor (Album Art) ✍️
+
+(14). Audio speed Changer 50-200% /settings
+
+(15). Volume Changer, changes volume of audio 10 to 200%
+
+(16). Media Information
+
+(17). Compress Audio, Customise audio compress Range in /settings
+
+
+✶ If you send Document, Then these option will appear According to Your file 👇
+ 
+(1). File Renamer
+
+(2). Create Archive (zip file maker)
+
+(3). Archive Extractor (Unzipper)
+
+(4). Caption & Buttons Editor
+
+(5). Forwarded tag remover
+
+(6). Subtitles converter (srt, vtt, ass, sbv)
+
+(7). JSON Formatter (Indent 1,2,3,4)
+
+
+✶ Bulk Mode Options: 🌟 Bulk Mode is very Convenience Option. It makes easy for converting many files one by one Automatically. 👇
+ 
+(1). Archive Creater (zip, rar, 7z)
+
+(2). Remove Audios (Remove all audios in video)
+
+(3). Convert to MP3 (Audio or Video to MP3)
+
+(4). Files Renamer (Videos rename in Bulk)
+
+(5). Video converter (Stream/Video, Document/File, MP4, MKV, M4V)
+
+(6). Audio Merger
+
+(7). Video Reorder
+
+(8). Video Merger (Video Concatenation)
+
+(9). Merge 🎥 + 🎵 + Subtitles (Video Multiplexer)
+
+(10). MP3 Tag Editor
+
+
+✶ If you send URL, Then these option will appear According to Your Link 👇
+ 
+(1). Extract Archive via Direct Link (Extract zip, rar, 7z, tar etc)
+
+(2). 🔗 URL Uploader (Link To File)
+
+(3). Link Shortner & Unshortener
+
+(4). If your 🔗 url will be a direct link Then you can use Audio & Video related functions.
+
+(5). Google Drive Downloader ( You can Download anything (Photo, video, archive, documents etc) & Folder too.
+
+(6). Bulk Links Downloader, Command  /bulk_url (*Supports custom Name)
+
+✶ Note : 🔗 Direct link supports. And Custom thumbnail Supports in All Video functions, Just send an image to set as Custom Thumbnail
+(also make it like \n\n)
+(on here down buttons like this)
+(Bots list).                        {home)
+                   (close)
+
+{and when click on home show output command start output fully)
+
+(when on button commands show that output)
+These are some Basic commands
+
+/buttons_adder - Add button to Telegram message.
+
+/forward - for forwarding message to Channel/Group
+
+/web - Enjoy some online sites without leaving Telegram. (YouTube, Instagram, YouTube Music, Spotify, Wynk, Jio Saavn)
+
+/slogin - Login with session string
+
+/slogout - Logout Session string
+
+/dublicates - remove dublicate lines from txt file
+
+/html - html to txt converter
+
+/merge - merge videos from urls
+
+/yt - yt channel/playlist link
+
+/mongo_clone - Mongo Db Cloner
+
+/timezone - Set timezone
+
+(also make it like \n\n)
+
+(on here down buttons like this)
+(Home).                        {Functions)
+                   (close)
+
+(and when click on home show output command start output fully)
+
+(when click on button Discipline show that output)
+
+Legal Disclaimer
+
+This legal disclaimer ("Disclaimer") applies to the use of our Bot, its services, and interactions with the bot. By using Bot, you agree to the terms and conditions outlined in this Disclaimer.
+
+1. Purpose of Bot:
+    This Telegram bot is designed to facilitate the download of publicly available files from the internet, Some video and Audio related tools. We do not host or store any files, nor do we endorse or support any illegal activities.
+
+2. User Responsibilities:
+    You, the user, are solely responsible for ensuring the legality of the files you request and download through Bot. It is your responsibility to comply with all applicable laws and regulations.
+
+3. No Data Collection:
+    Bot does not collect, store, or have access to any incoming or outgoing user data. Your privacy is important to us, and we respect it.
+
+4. Prohibited Activities:
+    Bot strictly prohibits the use of the bot for illegal activities, including but not limited to downloading, distributing, or sharing illegal materials, copyrighted content without proper authorization, or any other activities that violate the law.
+
+5. Security and Disclaimer of Liability:
+    While we take reasonable steps to ensure the safety and functionality of Bot, we do not guarantee the security or safety of downloaded files. You use the bot at your own risk.
+
+    Bot and its developers are not liable for any damages or legal consequences resulting from your use of the bot.
+
+6. Changes to Disclaimer:
+    This Disclaimer may be updated or modified at any time without prior notice. It is your responsibility to review this Disclaimer regularly for any changes.
+
+7. Contact Information:
+    If you have any questions or concerns about Bot or this Disclaimer, please contact us at @Team_JB
+
+on here down buttons like this)
+(Home).                        {Functions)
+                   (close)
+
+(and When click on close close the output)
